@@ -2,7 +2,12 @@
 
 ## Hi there👋
 
-> I'm currently interested in astronomy, physics, writing novels, coding, and making AI characters.
+- ✨Elentinè / Èred / SymbolOfSecret
+- 🌟SNU PhyA 24 
+- 🍀이파리 / 세균단
+- 💻BOJ, AI_Frieren
+- 📚86 Eighty-Six
+- 🪙미사카미코토공부법으로A+쟁취하자!
 
 ## Stats💻
   
@@ -12,13 +17,9 @@
 
 ## Others✨
 
-</div>
+> I'm currently interested in astronomy, physics, writing novels, coding, and making AI characters.
 
-- ✨Elentinè / Èred / SymbolOfSecret
-- 🌟SNU PhyA 24 
-- 🍀이파리 / 세균단
-- 💻BOJ, AI_Frieren
-- 📚86 Eighty-Six
-- 🪙미사카미코토공부법으로A+쟁취하자!
+
+</div>
   
 
