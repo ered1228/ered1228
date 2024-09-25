@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ered1228/ered1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there👋
 
-Here are some ideas to get you started:
+- ✨Elentinè / Èred / SymbolOfSecret
+- 🌟SNU PhyA 24 
+- 🍀이파리 / 세균단
+- 💻BOJ, AI_Frieren
+- 📚86 Eighty-Six
+- 🪙미사카미코토공부법으로A+쟁취하자!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats💻
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ered1228)](https://solved.ac/profile/ered1228)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ered1228&theme=white)
+  ![ered1228's GitHub stats](https://github-readme-stats.vercel.app/api?username=ered1228&show_icons=true&theme=cobalt)
+
+## Others✨
+
+> I'm currently interested in astronomy, physics, writing novels, coding, and making AI characters.
+
+
+
+</div>
+
