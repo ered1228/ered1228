@@ -5,7 +5,7 @@
 - ✨Elentinè / Èred / SymbolOfSecret
 - 🌟SNU PhyA 24 
 - 🍀이파리 / 세균단
-- 💻BOJ, AI_Frieren
+- 💻BOJ, AI_Frieren, Kaggle, Game
 - 📚86 Eighty-Six
 
 ## Stats💻
@@ -16,7 +16,7 @@
 
 ## Others✨
 
-> I'm currently interested in astronomy, physics, writing novels, coding, and making AI characters.
+I'm currently interested in astronomy, physics, writing novels, coding, and making AI characters.
 
 </div>
   
