@@ -13,4 +13,4 @@ I'm also known as Èred / Elentine / SymbolOfSecret.
 
 - Department of Physics & Astronomy, SNU (2024.03.02 - ) :star2:
 - ROKAF 866 (2025.03.10 - 2026.12.09) :airplane:
-- I'm currently intersted in ISD, chess, PS and writhg novels! :four_leaf_clover:♟️💻✏️
+- I'm currently intersted in ISD, chess, PS and writing novels! :four_leaf_clover:♟️💻✏️
